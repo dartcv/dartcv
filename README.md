@@ -2,7 +2,7 @@
 💻 Java & Kotlin Developer | 🌱 Lifelong Learner  
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hiatus169)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiatus169&layout=compact&theme=vision-friendly-dark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiatus169&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
