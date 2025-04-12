@@ -19,4 +19,4 @@
 ---
 
 ### ⭐ Latest Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hiatus169&repo=your-best-repo&theme=dark)](https://github.com/hiatus169/Camellia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hiatus169&repo=Camellia&theme=dark)](https://github.com/hiatus169/Camellia)
