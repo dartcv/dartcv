@@ -32,4 +32,4 @@ fun buildSoftware() {
 
 ---
 
-### 💬 你就是晴天，我的爱未眠。 
+### 💬 God is silent, everything is up to me.
