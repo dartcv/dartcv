@@ -28,6 +28,7 @@ fun buildSoftware() {
         drinkCoffee() // ☕️ Fuel for developers
     }
 }
+```
 
 ---
 
