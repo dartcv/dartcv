@@ -16,3 +16,15 @@
 
 ### 📈 Activity Graph
 [![Mingxi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiatus169&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🎯 Coding Philosophy
+```kotlin
+fun buildSoftware() {
+    while (true) {
+        writeCleanCode()
+        learnNewTech()
+        drinkCoffee() // ☕️ Fuel for developers
+    }
+}
