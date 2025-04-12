@@ -1,7 +1,7 @@
 👋 Hi, I'm **Mingxi**  
 💻 Java & Kotlin Developer | 🌱 Lifelong Learner  
 
-[![GitHub Streak](https://streak-stats.demoli.xyz?user=hiatus169&theme=dark&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak(https://streak-stats.demolab.com/?user=hiatus169)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiatus169&layout=compact&theme=vision-friendly-dark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
