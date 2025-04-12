@@ -1,8 +1,6 @@
 👋 Hi, I'm **Mingxi**  
 💻 Java & Kotlin Developer | 🌱 Lifelong Learner  
 
-[![每日一言](https://api.vvhan.com/api/ian)](https://hitokoto.cn)  <!-- 随机中英双语句子 -->
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hiatus169)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiatus169&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -30,3 +28,7 @@ fun buildSoftware() {
         drinkCoffee() // ☕️ Fuel for developers
     }
 }
+
+---
+
+### 💬 你就是晴天，我的爱未眠。 
