@@ -20,11 +20,18 @@
 
 ### 🎯 Coding Philosophy
 ```kotlin
+var age = 16
+var health = 90
 fun buildSoftware() {
     while (true) {
         writeCleanCode()
         learnNewTech()
         drinkCoffee() // ☕️ Fuel for developers
+        age++
+        health--
+        if(age == 100|| health == 0)
+          this.die()
+          this.onDestory()
     }
 }
 ```
