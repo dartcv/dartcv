@@ -29,9 +29,10 @@ fun buildSoftware() {
         drinkCoffee() // ☕️ Fuel for developers
         age++
         health--
-        if(age == 100|| health == 0)
+        if(age == 100|| health == 0) {
           this.die()
           this.onDestory()
+        }
     }
 }
 ```
