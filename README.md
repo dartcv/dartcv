@@ -1,8 +1,8 @@
 👋 Hi, I'm **Mingxi**  
 💻 Java & Kotlin Developer | 🌱 Lifelong Learner  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hiatus169)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiatus169&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dartcv)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dartcv&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -14,7 +14,7 @@
 ---
 
 ### 📈 Activity Graph
-[![Mingxi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiatus169&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mingxi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dartcv&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
